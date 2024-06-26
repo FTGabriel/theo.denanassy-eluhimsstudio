@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\gfunarotourbez\source\repos\Gabriel_FUNARO_TOURBEZ_GTech1\main.c(23,31): warning C4047: 'fonction' : les niveaux d'indirection de 'SDL_Renderer *' et de 'void (__cdecl *)()' sont différents
+C:\Users\gfunarotourbez\source\repos\Gabriel_FUNARO_TOURBEZ_GTech1\main.c(23,23): warning C4024: 'SDL_RenderPresent' : types différents pour le paramètre formel et réel 1
+  Gabriel_FUNARO_TOURBEZ_GTech1.vcxproj -> C:\Users\gfunarotourbez\source\repos\Gabriel_FUNARO_TOURBEZ_GTech1\x64\Debug\Gabriel_FUNARO_TOURBEZ_GTech1.exe
